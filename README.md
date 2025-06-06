@@ -11,8 +11,8 @@
 [일반 질문 / 연락](https://tally.so/r/3qp6E5)
 
 안내문 목록
-[1. 우리를 소개합니다](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13386862)
-[2. 우리의 가치/철학](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13386976)
-[3. 용어가 많아서 헷갈리는 당신을 위한 가이드 ](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13386976)
-[4. 활동 상세 안내](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13386993)
+[1. 우리를 소개합니다](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13386862) 
+[2. 우리의 가치/철학](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13386976) 
+[3. 용어가 많아서 헷갈리는 당신을 위한 가이드 ](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13386976)  
+[4. 활동 상세 안내](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13386993) 
 [5. 후기 - 함께하며 이런 게 좋았어요](https://github.com/Pseudo-Lab/GJS6/discussions/3#discussioncomment-13387124)
